@@ -1,2 +1,2 @@
 # Assignment-12
-Problems on Arrays (part-2)
+Problems on Arrays-2
