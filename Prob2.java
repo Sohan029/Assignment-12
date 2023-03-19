@@ -21,7 +21,7 @@ public class Prob2 {
         int dup1[] = Arrays.copyOfRange(arr,0,count);
         int dup2[] = Arrays.copyOfRange(arr,count,n);
         for(int i=0;i<count;i++){
-            System.out.print(up1[i]+" "+dup2[i]+" ");
+            System.out.print(dup1[i]+" "+dup2[i]+" ");
         }
 
         if(dup1.length<dup2.length){
